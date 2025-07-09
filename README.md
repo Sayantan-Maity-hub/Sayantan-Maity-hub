@@ -20,7 +20,7 @@
 ### 🔷 Embedded Systems (Arduino + Wokwi)
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [LED Blink](https://github.com/YourUsername/LED-Blink-Arduino) | Basic digital output example | Arduino, Wokwi |
+| [LED Blink](https://github.com/Sayantan-Maity-hub/LED-Blink-Arduino-Wokwi) | Basic digital output example | Arduino, Wokwi |
 | [Smart Fan System](https://github.com/YourUsername/Smart-Fan-System) | Temperature sensor + PWM fan control | Arduino, Wokwi |
 | [Password Door Lock](https://github.com/YourUsername/Password-Door-Lock) | Keypad + Servo simulation | Arduino, Wokwi |
 
