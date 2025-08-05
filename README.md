@@ -8,7 +8,7 @@
 
 ## 🚀 What I Do
 
-- 💡 Build real-world electronics simulations (no hardware needed)
+- 💡 Build real-world electronics simulations projects
 - ⚙️ Design and simulate circuits in Arduino, Verilog, and Falstad
 - 🧠 Apply AI/ML to signal processing, sensor data, and hardware control
 - 🌐 Learn by building – one project at a time!
