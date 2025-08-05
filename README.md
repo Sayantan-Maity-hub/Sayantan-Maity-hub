@@ -37,7 +37,7 @@
 ### 🟡 Analog Circuits (Simulated)
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Ramp Generator](https://github.com/YourUsername/Ramp-Generator) | Op-amp based waveform generator | Falstad |
+| [Ramp Generator](https://github.com/Sayantan-Maity-hub/Analog_Systems_Lab_Ramp_Generator) | Op-amp based waveform generator | Falstad |
 | [Low-Pass Filter](https://github.com/YourUsername/RC-Filter-Sim) | Simple RC filter simulation | LTSpice |
 
 ---
