@@ -38,6 +38,7 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Ramp Generator](https://github.com/Sayantan-Maity-hub/Analog_Systems_Lab_Ramp_Generator) | Op-amp based waveform generator | Falstad |
+| [PWM Modulator](https://github.com/Sayantan-Maity-hub/Analog_System_Lab_PWM_Modulator) | SINGLE ENDED-TO-DIFFERENTIAL INPUT CONVERTER | PWM MODULATOR
 | [Low-Pass Filter](https://github.com/YourUsername/RC-Filter-Sim) | Simple RC filter simulation | LTSpice |
 
 ---
