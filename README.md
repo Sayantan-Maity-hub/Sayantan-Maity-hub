@@ -48,7 +48,7 @@
 ### 🟣 Hardware & PCB Projects (KiCad)
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Combined 3-in-1 PCB Board](https://github.com/Sayantan-Maity-hub/3in1-PCB-Board) | **LM35 Sensor + Op-Amp (LM358) Signal Conditioning + MOSFET Motor Driver** on one PCB | KiCad |
+| [Combined 3-in-1 PCB Board](https://github.com/Sayantan-Maity-hub/combined-3in1-board-kicad) | **LM35 Sensor + Op-Amp (LM358) Signal Conditioning + MOSFET Motor Driver** on one PCB | KiCad |
 | [Sensor Driver (LM35)](https://github.com/Sayantan-Maity-hub/Sensor-Driver-PCB) | Analog temperature sensing schematic | KiCad |
 | [Op-Amp Gain Stage](https://github.com/Sayantan-Maity-hub/OpAmp-Gain-Stage) | LM358 gain + filter stage | KiCad |
 | [Mini Motor Driver](https://github.com/Sayantan-Maity-hub/Motor-Driver-PCB) | MOSFET driver stage | KiCad |
