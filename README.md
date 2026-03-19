@@ -30,7 +30,7 @@
 ### 🔶 Digital Logic & Verilog
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [4-bit Counter](https://github.com/YourUsername/4bit-Counter-Verilog) | Verilog-based up-counter with display | Verilog, EDA Playground |
+| [4-bit Counter](https://github.com/Sayantan-Maity-hub/4-bit_counter) | Verilog-based up-counter with display | Verilog, EDA Playground |
 | [Traffic Light FSM](https://github.com/YourUsername/FSM-Traffic-Light) | State machine logic for signal lights | Verilog, Logisim |
 
 ---
