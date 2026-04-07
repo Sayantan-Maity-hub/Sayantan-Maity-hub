@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sayantan Maity
 
-🎓 **B.S. in Electronics Systems**  
+🎓 **Bachelor in Electronics Systems**  
 📍 Indian Institute of Technology Madras (2023–2027)  
 
 🔬 **Embedded Systems | SDR | Hardware-Software Integration | AI Systems**  
